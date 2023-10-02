@@ -1,5 +1,5 @@
 ---
-title: Home
+title: How to become
 layout: home
 ---
 
