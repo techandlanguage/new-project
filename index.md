@@ -1,5 +1,5 @@
 ---
-title: How to become a technical writer - an ultomate Guide for English Teachers in Poland
+title: How to become a Technical Writer - an Ultimate Guide for English Teachers in Poland
 layout: home
 ---
 
