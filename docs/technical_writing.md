@@ -1,6 +1,7 @@
 ---
 title:  What is Technical Writing?
 layout: default
+nav_order: 3
 ---
 
 # What is a Technical Writing?
