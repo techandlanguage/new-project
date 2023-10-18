@@ -2,6 +2,7 @@
 title: Technical Writer
 layout: default
 nav_order: 2
+parent: Introduction
 ---
 
 # Who is a Technical Writer? 
