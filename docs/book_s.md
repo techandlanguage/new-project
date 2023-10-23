@@ -1,8 +1,9 @@
 ---
-title:  Take online courses, Read books related to Tech Comm, Read relevant blogs & Listen to podcasts
-
+title:  Tools for Technical Writers
 layout: default
+nav_order: 11
 ---
+
 
 # Take online courses, Read books related to Tech Comm, Read relevant blogs & Listen to podcasts
 UX Design Books, Blogs, and Podcasts: A 2023 Resource List | Coursera
