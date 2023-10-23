@@ -1,7 +1,9 @@
 ---
-title:  Sign up for Technical Communication Studies at Vistula University
-
+title:  Technical Communication Studies at Vistula University
 layout: default
+nav_order: 7
+---
+
 ---
 
 # Sign up for Technical Communication Studies at Vistula University
