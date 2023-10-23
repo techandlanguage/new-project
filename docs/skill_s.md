@@ -1,10 +1,10 @@
 ---
-title:  Tools for Technical Writers
+title:  Technical Writers' Skills
 layout: default
 nav_order: 5
 ---
 
-# What Kind of Skills should evert Technical Writer have?
+# What Kind of Skills should every Technical Writer have?
 Required Skills or Abilities are:
 
 Research skills.
