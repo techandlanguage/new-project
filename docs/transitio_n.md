@@ -1,7 +1,9 @@
 ---
 title:  Transition from English Teacher to Technical Writer
-
 layout: default
+nav_order: 7
+---
+
 ---
 
 # Transition from English Teacher to Technical Writer
