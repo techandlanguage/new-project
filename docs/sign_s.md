@@ -1,6 +1,7 @@
 ---
 title:  Psychological Signs you may need to retrain
 layout: default
+nav_order: 6
 ---
 
 # Psychological Signs you may need to retrain
