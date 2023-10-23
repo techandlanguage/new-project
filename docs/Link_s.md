@@ -1,5 +1,5 @@
 ---
-title:  Tools for Technical Writers
+title:  Links
 layout: default
 nav_order: 12
 ---
