@@ -1,6 +1,7 @@
 ---
-title:  Technical Writers' Skills
+title:  Tools for Technical Writers
 layout: default
+nav_order: 5
 ---
 
 # What Kind of Skills should evert Technical Writer have?
