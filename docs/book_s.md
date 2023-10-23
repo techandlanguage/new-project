@@ -1,5 +1,5 @@
 ---
-title:  Tools for Technical Writers
+title:  Take online courses, Read books related to Tech Comm, Read relevant blogs & Listen to podcasts
 layout: default
 nav_order: 11
 ---
