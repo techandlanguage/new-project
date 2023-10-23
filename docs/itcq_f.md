@@ -1,8 +1,9 @@
 ---
-title:  Complete ITCQF training
-
+title:  ITCQF Certificate
 layout: default
+nav_order: 9
 ---
+
 
 # What is an ITCQF?
 ITCQF - International Technical Communication Qualification Foundation stands for the community of experts sharing  their technical writing experience. 
