@@ -27,3 +27,5 @@ https://www.facebook.com/meetcontentcommunity/
 https://www.writethedocs.org/
 
 https://www.coursera.org/articles/ux-design-books-blogs-podcasts
+
+I found the above mentioned links very useful and even necessary to collect all the important information on Technical Writing.
