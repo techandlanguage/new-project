@@ -26,4 +26,4 @@ https://www.facebook.com/meetcontentcommunity/
 
 https://www.writethedocs.org/
 
-UX Design Books, Blogs, and Podcasts: A 2023 Resource List | Coursera
+https://www.coursera.org/articles/ux-design-books-blogs-podcasts
