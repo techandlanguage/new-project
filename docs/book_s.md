@@ -20,4 +20,4 @@ that includes the latest updates in the world of tech writing.
 https://www.amazon.com/Docs-Developers-Engineers-Technical-Writing/dp/1484272161
 One of many favourite books for content writers "Docs for Developers" a great source of knowledge, recommended as must – read.
 
-Honestly speaking, whatever activity I took: researching, writing, reading etc. that brought me closer to achieving my goal, gaining tech comm knowledge, I believe is worth trying.
+Honestly speaking, whatever activity I took: researching, writing, reading etc. that brought me closer to achieving my goal, gaining tech comm knowledge, I believe was worth trying.
