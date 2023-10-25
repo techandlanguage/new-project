@@ -1,6 +1,5 @@
 ---
-title:  Take online courses, Read books related to Tech Comm, Read relevant blogs & Listen to podcasts
-layout: default
+title:  Create Knowlegdge Base
 nav_order: 11
 ---
 
