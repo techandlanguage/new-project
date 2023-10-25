@@ -1,5 +1,5 @@
 ---
-title:  Create Knowlegdge Base
+title:  Create Knowledge Base
 nav_order: 11
 ---
 
