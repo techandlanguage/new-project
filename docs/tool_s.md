@@ -7,7 +7,7 @@ nav_order: 4
 # Tools for Technical Writers
 The right tools can improve the overall quality of work, simplify formatting or facilitate collaboration. 
 
-1.Microsoft Word:
+1. Microsoft Word:
 
 This classic tool remains a go-to for many technical writers. Its comprehensive formatting features, compatibility with other Microsoft Office tools, and universality make it a reliable choice for creating and editing documents.
 
@@ -51,5 +51,5 @@ A modern static website generator, Docusaurus makes it easy to create and mainta
 Taking screenshots is routine for most computer users, and if you are a windows user like me, the Windows Snipping Tool makes it a breeze.
 
 
-These tools are powerful and cater to the evolving needs of technical writers.
+These tools are powerful and cater to the evolving needs of Technical Writers.
 
