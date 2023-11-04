@@ -1,11 +1,12 @@
 ---
 title:  Create Knowledge Base
+layout: default
 nav_order: 11
 ---
 
----
 
-# Take online courses, Read books related to Tech Comm, Read relevant blogs & Listen to podcasts
+
+#  Create Knowledge Base
 
 
 
