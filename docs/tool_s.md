@@ -47,7 +47,6 @@ This tool facilitates team collaboration, with options to share and edit diagram
 ## 10. Docusaurus:
 A modern static website generator, Docusaurus makes it easy to create and maintain Open Source documentation websites. 
 
-
 ## 11.Windows Snipping Tool:
 Taking screenshots is routine for most computer users, and if you are a Windows user, the Windows Snipping Tool makes it a breeze.
 
