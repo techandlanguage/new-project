@@ -8,7 +8,7 @@ nav_order: 4
 The right tools can improve the overall quality of work, simplify formatting or facilitate collaboration. 
 
 
-## Microsoft Word:
+## 1. Microsoft Word:
 
 This classic tool remains a go-to for many technical writers. Its comprehensive formatting features, compatibility with other Microsoft Office tools, and universality make it a reliable choice for creating and editing documents.
 
@@ -24,31 +24,31 @@ MadCap Flare is particularly suited for creating extensive user manuals, help sy
  
 Adobe FrameMaker modernizes technical content with a robust and powerful authoring and publishing solution.
 
-5. GitHub:
+## GitHub:
 
 While primarily a platform for developers, GitHub is becoming increasingly popular among technical writers for version control, especially when documenting software products. 
 
-6. Snagit:
+## Snagit:
 
 Snagit by TechSmith offers a comprehensive solution to capture, edit, and share images and videos. 
 
-7. Grammarly:
+## Grammarly:
 
 In the era of digital communication, ensuring the clarity, correctness, and effectiveness of writing is paramount.
 
-8. XMind:
+## XMind:
 
 XMind is a pioneer in the field, designed to foster creativity, stimulate ideas, and enhance productivity.
 
-9. Microsoft Visio:
+## Microsoft Visio:
 
 This tool  facilitates team collaboration, with options to share and edit diagrams simultaneously with team members.
 
-10. Docusaurus:
+## Docusaurus:
 A modern static website generator, Docusaurus makes it easy to create and maintain Open Source documentation websites. 
 
 
-11. Windows Snipping Tool:
+## Windows Snipping Tool:
 Taking screenshots is routine for most computer users, and if you are a windows user like me, the Windows Snipping Tool makes it a breeze.
 
 
