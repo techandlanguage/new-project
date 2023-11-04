@@ -6,7 +6,7 @@ nav_order: 9
 
 
 # What is an ITCQF?
-ITCQF - International Technical Communication Qualification Foundation stands for the community of experts sharing  their technical writing experience. 
+"ITCQF®"  - International Technical Communication Qualification Foundation stands for the community of experts sharing  their technical writing experience. 
 
 ITCQF is a high-value certification that ensures you maintain a high level of knowledge and skill in technical writing profession.
 
@@ -23,4 +23,6 @@ an ITCQF certificate is recognized for:
 
 - Open knowledge sharing – ITCQF® works to spread knowledge about technical communication and best practices.
 
-I attended ITCQF training what encouraged me to get the Certificate in the nearest future. https://itcqf.org/
+I attended ITCQF training what encouraged me to get the Certificate in the nearest future. 
+
+https://itcqf.org/
