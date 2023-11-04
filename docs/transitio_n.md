@@ -7,7 +7,7 @@ nav_order: 7
 ---
 
 # Transition from English Teacher to Technical Writer
-Nowadays, still teaching is a noble profession that involves helping students learn and grow. However, some teachers might feel the need to transition to a different career path, especially because of the low pay and need to personal development.
+Nowadays, still teaching is a noble profession that involves helping students learn and grow. However, some teachers might feel the need to transition to a different career path, especially because of the low pay and go towards personal development.
 
 Teachers are considered and actually required to possess impressive critical thinking and writing skills. 
 
