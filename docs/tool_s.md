@@ -51,5 +51,5 @@ A modern static website generator, Docusaurus makes it easy to create and mainta
 Taking screenshots is routine for most computer users, and if you are a Windows user, the Windows Snipping Tool makes it a breeze.
 
 
-These tools are powerful and cater to the evolving needs of Technical Writers.
+In conclusion, these tools are powerful and cater to the evolving needs of Technical Writers.
 
