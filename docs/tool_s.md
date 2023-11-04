@@ -12,44 +12,44 @@ The right tools can improve the overall quality of work, simplify formatting or 
 
 This classic tool remains a go-to for many technical writers. Its comprehensive formatting features, compatibility with other Microsoft Office tools, and universality make it a reliable choice for creating and editing documents.
 
-## Google Docs:
+## 2. Google Docs:
 
 Google Docs took word processing to the cloud, allowing users to access their documents from any device with an internet connection and collaborate with others in real-time.
 
-## MadCap Flare:
+## 3. MadCap Flare:
 
 MadCap Flare is particularly suited for creating extensive user manuals, help systems and knowledge bases. 
 
-## Adobe FrameMaker:
+## 4. Adobe FrameMaker:
  
-Adobe FrameMaker modernizes technical content with a robust and powerful authoring and publishing solution.
+Adobe FrameMaker modernizes Technical Content with a robust and powerful authoring and publishing solution.
 
-## GitHub:
+## 5. GitHub:
 
-While primarily a platform for developers, GitHub is becoming increasingly popular among technical writers for version control, especially when documenting software products. 
+While primarily a platform for developers, GitHub is becoming increasingly popular among Technical wWiters for version control, especially when documenting software products. 
 
-## Snagit:
+## 6. Snagit:
 
 Snagit by TechSmith offers a comprehensive solution to capture, edit, and share images and videos. 
 
-## Grammarly:
+## 7. Grammarly:
 
-In the era of digital communication, ensuring the clarity, correctness, and effectiveness of writing is paramount.
+Grammarly helps to improve the clarity, correctness, and effectiveness of writing.
 
-## XMind:
+## 8. XMind:
 
 XMind is a pioneer in the field, designed to foster creativity, stimulate ideas, and enhance productivity.
 
-## Microsoft Visio:
+## 9. Microsoft Visio:
 
-This tool  facilitates team collaboration, with options to share and edit diagrams simultaneously with team members.
+This tool facilitates team collaboration, with options to share and edit diagrams simultaneously with team members.
 
-## Docusaurus:
+## 10. Docusaurus:
 A modern static website generator, Docusaurus makes it easy to create and maintain Open Source documentation websites. 
 
 
-## Windows Snipping Tool:
-Taking screenshots is routine for most computer users, and if you are a windows user like me, the Windows Snipping Tool makes it a breeze.
+## 11.Windows Snipping Tool:
+Taking screenshots is routine for most computer users, and if you are a Windows user, the Windows Snipping Tool makes it a breeze.
 
 
 These tools are powerful and cater to the evolving needs of Technical Writers.
