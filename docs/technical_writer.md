@@ -1,5 +1,5 @@
 ---
-title: Technical Writer
+title: Who is a Technical Writer?
 layout: default
 nav_order: 2
 ---
