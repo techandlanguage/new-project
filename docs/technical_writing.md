@@ -5,7 +5,7 @@ nav_order: 3
 ---
 
 # What is a Technical Writing?
-TTechnical Writing offers various opportunities to make a difference in people’s using and understanding technologies by improving the way of communicating them technical issues. Technical Writing is about users: who they are, what they are trying to do and what they need to know to succeed.
+Technical Writing offers various opportunities to make a difference in people’s using and understanding technologies by improving the way of communicating them technical issues. Technical Writing is about users: who they are, what they are trying to do and what they need to know to succeed.
 
 They need to deliver precise, concise and above all, clear communication that addresses the specific needs of thier readers. 
 
