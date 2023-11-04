@@ -13,7 +13,10 @@ Every IT system, mobile application or device comes with accompanying documentat
 
 Postgraduate studies at Vistula University are the first in Poland that practically prepare you to perform this type of work. This is an excellent opportunity for philology graduates to use their language skills in technical applications and start working in the IT technology or industry sector.   The studies provide the opportunity to obtain an ITCQF (International Technical Communication Qualifications Foundation) certificate.
 
+https://itcqf.org/
+
 This direction was created as a result of close cooperation with a group of experienced practitioners dealing with the management of technical documentation in technological projects and the recruitment and education of Technical Writers and technical trainers. We created it in response to the huge interest from business (shortage of qualified specialists on the labor market) and students (lack of universities and fields of study preparing students to work in the technical communication industry).
+
 https://vistula.edu.pl/kierunki-studiow/komunikacja-techniczna
 
 
