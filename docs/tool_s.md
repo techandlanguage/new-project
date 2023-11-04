@@ -12,15 +12,15 @@ The right tools can improve the overall quality of work, simplify formatting or 
 
 This classic tool remains a go-to for many technical writers. Its comprehensive formatting features, compatibility with other Microsoft Office tools, and universality make it a reliable choice for creating and editing documents.
 
-2. Google Docs:
+## Google Docs:
 
 Google Docs took word processing to the cloud, allowing users to access their documents from any device with an internet connection and collaborate with others in real-time.
 
-3. MadCap Flare:
+## MadCap Flare:
 
 MadCap Flare is particularly suited for creating extensive user manuals, help systems and knowledge bases. 
 
-4. Adobe FrameMaker:
+## Adobe FrameMaker:
  
 Adobe FrameMaker modernizes technical content with a robust and powerful authoring and publishing solution.
 
