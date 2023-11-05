@@ -10,9 +10,9 @@ nav_order: 11
 
 
 
-”Sharing is caring” idea works well in tech writers’ world and exchanging experience among tech writers is a common practice. 
+”Sharing is caring” idea works well in Tech Writers’ world and exchanging experience among themselves is a common practice. 
 
-The most popular website for technical communication that includes the latest updates in the world of tech writing is: 
+The most popular website for Technical Communication that includes the latest updates in the world of Tech Writing is: 
 
 https://techwriter.pl/
 
