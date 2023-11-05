@@ -26,5 +26,5 @@ During the classes, students become familiar with the principles of project and 
 The studies end with a final project, which can be a valuable point in the CV of every beginner Technical Writer.
 Graduates can count on employment in technology companies, in particular in the area of IT, industry and new technologies.
 
-I did not hesitate to attend these exciting studies and will never regret!
+I did not hesitate to attend these expanding studies and will never regret!
 My attitude towards using technologies in writing - changed, I gained priceless and professional knowledge on technical writing thanks to lecturers at Vistula University.
