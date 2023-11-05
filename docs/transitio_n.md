@@ -11,7 +11,7 @@ Nowadays, still teaching is a noble profession that involves helping students le
 
 Teachers are considered and actually required to possess impressive critical thinking and writing skills. 
 
-These skills can easily be transferred to a technical writing position. 
+These skills can easily be transferred to a Technical Writing position. 
 
 As a Technical Writer you’ll be obliged to write or edit instruction manuals, user guides, and many others. 
 
