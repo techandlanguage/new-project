@@ -11,7 +11,7 @@ Technical communication is a field that deals with translating difficult technic
 
 Every IT system, mobile application or device comes with accompanying documentation, instructions or help files. The demand for good quality documentation is constantly growing, which is why there are more and more job offers for Technical Writers.
 
-Postgraduate studies at Vistula University are the first in Poland that practically prepare you to perform this type of work. This is an excellent opportunity for philology graduates to use their language skills in technical applications and start working in the IT technology or industry sector.   The studies provide the opportunity to obtain an ITCQF (International Technical Communication Qualifications Foundation) certificate.
+Postgraduate studies at Vistula University are the first in Poland that practically prepare you to perform this type of work. This is an excellent opportunity for philology graduates to use their language skills in technical applications and start working in the IT technology or industry sector.  The studies provide the opportunity to obtain an ITCQF (International Technical Communication Qualifications Foundation) certificate.
 
 https://itcqf.org/
 
@@ -21,7 +21,7 @@ https://vistula.edu.pl/kierunki-studiow/komunikacja-techniczna
 
 
 Graduates of the "Technical Communication" postgraduate studies have practical ability to create and publish various types of technical documentation. They can collect information, format content, review and publish various types of documents using specialized tools.
-During the classes, students become familiar with the principles of project and documentation team management, creating content publishing strategies, and basic techniques and tools used in professional information management. The study program also covers basic issues in the areas of automation and usability and practically prepares students to obtain the ITCQF Foundation Level certificate.
+During the classes, students become familiar with the principles of project and documentation team management, creating content publishing strategies, and basic techniques and tools used in professional information management. The study program also covers basic issues in the areas of automation and usability and practically prepares students to obtain the ITCQF Foundation Level Certificate.
 
 The studies end with a final project, which can be a valuable point in the CV of every beginner Technical Writer.
 Graduates can count on employment in technology companies, in particular in the area of IT, industry and new technologies.
