@@ -8,7 +8,8 @@ nav_order: 10
 
 # Join the community & Go to Tech Comm conferences
 
-Firstly, our group on Facebook ‘Tworzenie Dokumentacji” created for Vistula University students and Content Enthusiasts. It is an active group, a place for Q & A, exchanging thoughts and experiences in the field of Technical Communication. (The link is below).
+Firstly, our group on Facebook ‘Tworzenie Dokumentacji” created for Vistula University students and Content Enthusiasts. It is an active group,
+a place for Q & A, exchanging thoughts and experiences in the field of Technical Communication. (The link is below).
 
 https://www.facebook.com/groups/342747819400007 
 
