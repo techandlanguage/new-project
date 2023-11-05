@@ -17,8 +17,8 @@ The most popular website for technical communication that includes the latest up
 https://techwriter.pl/
 
 
-One of many favourite books for content writers "Docs for Developers" a great source of knowledge, recommended as must – read.
+One of many favourite books for Content Writers "Docs for Developers" a great source of knowledge, recommended as must – read.
 
 https://www.amazon.com/Docs-Developers-Engineers-Technical-Writing/dp/1484272161
 
-Honestly speaking, whatever activity I took: researching, writing, reading etc. that brought me closer to achieving my goal, gaining tech comm knowledge, I believe was worth trying.
+Honestly speaking, whatever activity I took: researching, writing, reading etc. that brought me closer to achieving my goal, gaining Tech Comm knowledge, I believe was worth trying.
