@@ -24,7 +24,7 @@ MeetContentWRO is an offshoot of the already well known soap! conference and aim
 Third amazing opportunity for Tech Writers is soap! conference. 
 Who is the soap! audience? "Our audience (apart from being the best in the world!) spans through a wide variety of roles: technical writers, information architects, content strategists, translators, training developers, graphic designers, project managers, and much more!"
 
-[Konferencja soap!]https://soapconf.com/
+[Konferencja soap!](https://soapconf.com/)
 
 The Good Docs Project Community is a community of technical writers, developers, UX designers, and more who work together to make software documentation better. It is possible to participate actively in creating documentation templates. "Whether you are new to documentation or a seasoned technical writer, joining our community will give you opportunities to mentor and be mentored by others, build your professional network, improve your documentation skills, and help make software documentation better.
 
@@ -34,7 +34,7 @@ Last but not least, my first contact with Tech Writing was during WritetheDocs c
 Write the Docs is a global community of people who care about documentation.
 "We consider everyone who cares about communication, documentation, and their users to be a member of our community. This can be programmers, tech writers, developer advocates, customer support, marketers, and anyone else who wants people to have great experiences with software." (as it is written in the website)
 
-[Konferencje i społeczność WritetheDocs]https://www.writethedocs.org/
+[Konferencje i społeczność WritetheDocs](https://www.writethedocs.org/)
 
 
 
