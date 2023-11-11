@@ -1,5 +1,5 @@
 ---
-title:  Join the community & Go to Tech Comm conferences
+title:  Join the Community & Go to Tech Comm Conferences
 layout: default
 nav_order: 10
 ---
