@@ -9,6 +9,8 @@ nav_order: 8
 # Sign up for Technical Communication Studies at Vistula University
 Technical communication is a field that deals with translating difficult technical knowledge into a language understandable to an ordinary user. On a daily basis, it is a profession of people who create instructions, help files, procedures or reports, i.e. specialists working in positions such as "Technical Writer", "Technical Documentation Specialist", "Documentalist", "Technical Editor", “User Assistance Specialist” etc.
 
+![vistula](canva tech wr.png)
+
 Every IT system, mobile application or device comes with accompanying documentation, instructions or help files. The demand for good quality documentation is constantly growing, which is why there are more and more job offers for Technical Writers.
 
 Postgraduate studies at Vistula University are the first in Poland that practically prepare you to perform this type of work. This is an excellent opportunity for philology graduates to use their language skills in technical applications and start working in the IT technology or industry sector.  The studies provide the opportunity to obtain an ITCQF (International Technical Communication Qualifications Foundation) certificate.
