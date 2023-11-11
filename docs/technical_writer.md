@@ -24,8 +24,8 @@ The Technical Writer supports the UX Designer because he influences the shape of
 
 Very often, in a project team, TechWriter helps coordinate the process of creating, reviewing and approving documents, thus ensuring that deadlines are met.
 
-To sum up, Technical Writer is a mixture of several roles in proportions depending on the structure 
-of a given team and the specifics of the project. Tech Writer must adapt to the current needs of the project and, depending on the situation, supports:
+To sum up, Technical Writer is a mixture of several roles in proportions depending on the structure of 
+a given team and the specifics of the project. Tech Writer must adapt to the current needs of the project and, depending on the situation, supports:
 - Analysts,
 - Testers,
 - Project managers,
