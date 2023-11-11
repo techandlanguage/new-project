@@ -7,7 +7,7 @@ nav_order: 8
 ---
 
 # Sign up for Technical Communication Studies at Vistula University
-Technical communication is a field that deals with translating difficult technical knowledge into a language understandable to an ordinary user. On a daily basis, it is a profession of people who create instructions, help files, procedures or reports, i.e. specialists working in positions such as "Technical Writer", "Technical Documentation Specialist", "Documentalist", "Technical Editor", “User Assistance Specialist” etc.
+Technical Communication is a field that deals with translating difficult technical knowledge into a language understandable to an ordinary user. On a daily basis, it is a profession of people who create instructions, help files, procedures or reports, i.e. specialists working in positions such as "Technical Writer", "Technical Documentation Specialist", "Documentalist", "Technical Editor", “User Assistance Specialist” etc.
 
 ![Vistula University](canva_tech_wr.png)
 
