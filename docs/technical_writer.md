@@ -8,6 +8,8 @@ nav_order: 2
 Somebody who can break down complex concepts into more enjoable and simplier formats.
 But what exactly is a Technical Writer’s job about? Among the main tasks of a Technical Writer is to provide the user with information necessary to properly use the product, e.g. an application.
 
+vecteezy_close-up-of-male-hands-writing-on-paper-on-his-office-desk_10124960_118
+
 Technical Writer acts as an editor, making  grammatical, stylistic, lexical, syntactic and logical corrections.
 
 He or she also ensures that documents are formatted correctly, maintained in the visual style preferred by the company, and comply with all guidelines.
