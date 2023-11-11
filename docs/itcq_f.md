@@ -23,6 +23,6 @@ an ITCQF certificate is recognized for:
 
 - Open knowledge sharing – ITCQF® works to spread knowledge about technical communication and best practices.
 
-I attended ITCQF training what encouraged me to get the Certificate in the nearest future. 
+I attended ITCQF training what encouraged me to get the Certificate in the nearest future. In the link below you can find a valuable source of information. 
 
-https://itcqf.org/
+[ITCQF](https://itcqf.org/)
