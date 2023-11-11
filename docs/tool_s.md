@@ -7,7 +7,7 @@ nav_order: 4
 # Tools for Technical Writers
 The right tools can improve the overall quality of work, simplify formatting or facilitate collaboration. 
 
-vecteezy_flat-lay-top-view-office-table-desk-workspace-background_3203102.jpg
+![tools](vecteezy_flat-lay-top-view-office-table-desk-workspace-background_3203102.jpg)
 
 ## 1. Microsoft Word:
 
