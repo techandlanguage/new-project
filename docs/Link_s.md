@@ -10,24 +10,24 @@ Links
 
 I found the below mentioned links very useful and even necessary to collect all the important information on Technical Writing.
 
-https://www.linkedin.com/pulse/top-10-tools-technical-writers-2023-amy-hadassah/
+[Linkedin article on Tech Writers' Tools](https://www.linkedin.com/pulse/top-10-tools-technical-writers-2023-amy-hadassah/)
 
-https://technicalwriterhq.com/career/english-teacher-to-technical-writer/
+[Technicalwriterhq.com](https://technicalwriterhq.com/career/english-teacher-to-technical-writer/)
 
-https://techwriter.pl/
+[Techwriter.pl](https://techwriter.pl/)
 
-https://itcqf.org/
+[ITCQF](https://itcqf.org/)
 
-https://soapconf.com/
+[soap! Conference](https://soapconf.com/)
 
-https://vistula.edu.pl/kierunki-studiow/komunikacja-techniczna
+[Vistula University Technical Communication](https://vistula.edu.pl/kierunki-studiow/komunikacja-techniczna)
 
-https://www.facebook.com/groups/342747819400007
+[Facebook Group Tworzenie Dokumentacji](https://www.facebook.com/groups/342747819400007)
 
-https://www.facebook.com/meetcontentcommunity/
+[MeetContent Community Group on Facebook](https://www.facebook.com/meetcontentcommunity/)
 
-https://www.writethedocs.org/
+[WriteTheDocs](https://www.writethedocs.org/)
 
-https://www.coursera.org/articles/ux-design-books-blogs-podcasts
+[Courses, podcasts, etc... ](https://www.coursera.org/articles/ux-design-books-blogs-podcasts)
 
 
