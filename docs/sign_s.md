@@ -9,7 +9,7 @@ nav_order: 6
 Studies show that people are changing jobs more frequently than ever before. According to CNBC, Gen Zers and millennials are leading ‘the big quit’ in 2023 - why nearly 70% plan to leave their jobs, compared to just 55% of Gen Xers (ages 42-57) and only 30% of baby boomers (ages 58-76). The crucial reasons Gen Zers and millennials are considering changing jobs haven’t changed, it is about finding 
 a job that aligns with their values, and they are certain that switching job will help them to get there. Their goal is to have flexible work arrangements, carrier growth opportunities, a higher compensation, and improved work–life balance.
 
-!["a big quit chart in 2023"]Pastel_Elegant_Minimalist_Budgeting_Rules_Infographic_Chart_Instagram_Post.png
+![a big quit chart in 2023]Pastel_Elegant_Minimalist_Budgeting_Rules_Infographic_Chart_Instagram_Post.png
 
 The Technical Writer works with the product development teams and obtains necessary information from them. This means many conversations and meetings,
 so communication skills are a must for a Technical Writer.
