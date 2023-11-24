@@ -5,7 +5,7 @@ nav_order: 5
 ---
 
 # What Kind of Skills should every Technical Writer have?
-Required Skills or Abilities are:
+Required Skills or Abilities every Technical Writer should have, are:
 
 - Research skills.
 
@@ -25,7 +25,7 @@ Required Skills or Abilities are:
   
 - Ability to edit and proofread work of colleagues.
   
-- Proficient with Microsoft Office Suite or related software.
+- Proficiency with Microsoft Office Suite or related software.
 
-  Summing up, it is all about grabbing the reader's attention with the content they are going to find engaging and friendly in use.
+  Summing up, when a Technical Writer prepares Technical Documentation, it is all about grabbing the reader's attention with the content they are going to find engaging and friendly in use.
 
