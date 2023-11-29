@@ -8,7 +8,7 @@ nav_order: 10
 
 # Join the community & Go to Tech Comm conferences
 
-Firstly, our group on Facebook ‘Tworzenie Dokumentacji” created for Vistula University students and Content Enthusiasts. 
+Firstly, our group on Facebook ‘Tworzenie Dokumentacji' created for Vistula University students and Content Enthusiasts. 
 It is an active group, a place for Q & A, exchanging thoughts and experiences in the field of Technical Communication. (The link is below).
 
 [Facebook Group - Tworzenie Dokumentacji](https://www.facebook.com/groups/342747819400007) 
@@ -32,7 +32,7 @@ The Good Docs Project Community is a community of technical writers, developers,
 
 Last but not least, my first contact with Tech Writing was during WritetheDocs conference
 Write the Docs is a global community of people who care about documentation.
-"We consider everyone who cares about communication, documentation, and their users to be a member of our community. This can be programmers, tech writers, developer advocates, customer support, marketers, and anyone else who wants people to have great experiences with software." (as it is written in the website)
+"We consider everyone who cares about communication, documentation, and their users to be a member of our community. This can be programmers, tech writers, developer advocates, customer support, marketers, and anyone else who wants people to have great experiences with software" (as it is written in the website).
 
 [Conferences and Community WritetheDocs](https://www.writethedocs.org/)
 
