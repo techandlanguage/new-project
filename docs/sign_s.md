@@ -12,10 +12,6 @@ a job that aligns with their values, and they are certain that switching job wil
 ![a big quit chart](Pastel_Elegant_Minimalist_Budgeting_Rules_Infographic_Chart_Instagram_Post.png)
 
 Every change is like landing on the other planet and starting to live there. This is how I feel during my journey to retrain. Having specialization in Teaching I transition to Tech by leveraging my practical skills gained during teaching and simultaneously mastering workshops and presentations. As an enthusiastic user of technologies, I was trying to find a field where technology and language go together and a role of Technical Writing turned out to be the perfect match to fit in and where my experience would be transferable and beneficial.
-As a Tech Writer I transfer my interpersonal skills and critical thinking skills with previous  acquaintance with preparing instructions and materials related to them which is daily bread in Teacher's life. 
-My problem solving skills can help in understanding the scope of work and what business problem are to be solved and then using my project management and classroom management skills to cooperate with teams and create user friendly content.
-When transitioning from Teaching into Tech Comm my resume reflects my critical thinking, team collaboration and interpersonal skills.  Additionally,  creating a cover letter could be beneficial to assure a hiring manager and the team that they are paying attention to my credentials to understand how coming from totally different background I could be an asset and how I would fit in on their team.
-To get an understanding of the scope and what are the expectations of Technical Content that I am going to create for the audience who would take advantage from my work, I need to demonstrate my communication skills along with project management skills.
 
 Among many factors to make a decision on switching career, we need an honest consideration of the below mentioned issues:
 
