@@ -15,14 +15,13 @@ Why to obtain an ITCQF certificate?
 an ITCQF certificate is recognized for:
 - Professionalism – we are committed to professionalism, and our community comprises leading technical communication practitioners from all over the world.
 
-- Non-profit independence– ITCQF® is a non-profit organization.
+- Non-profit independence– ITCQF is a non-profit organization.
 
-- International presence – ITCQF® provides certifications in all continents of the world.
+- International presence – ITCQF provides certifications in all continents of the world.
 
 - Continuous learning – Technology and business drivers are constantly changing. As such, technical communicators must constantly improve their skills and be open to learning new concepts. We are committed to continuously update our knowledge base.
 
-- Open knowledge sharing – ITCQF® works to spread knowledge about technical communication and best practices.
+- Open knowledge sharing – ITCQF works to spread knowledge about technical communication and best practices.
 
-I attended ITCQF training what encouraged me to get the Certificate in the nearest future. In the link below you can find a valuable source of information. 
-
-[ITCQF](https://itcqf.org/)
+I attended ITCQF training what encouraged me to get the Certificate in the nearest future. On 
+[ITCQF](https://itcqf.org/) website you will find a valuable source of information. 
