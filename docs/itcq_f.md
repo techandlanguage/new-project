@@ -12,7 +12,7 @@ ITCQF is a high-value certification that ensures you maintain a high level of kn
 
 Why to obtain an ITCQF certificate?
 
-an ITCQF certificate is recognized for:
+The ITCQF certificate is recognized for:
 - Professionalism – we are committed to professionalism, and our community comprises leading technical communication practitioners from all over the world.
 
 - Non-profit independence– ITCQF is a non-profit organization.
