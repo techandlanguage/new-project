@@ -6,7 +6,6 @@ nav_order: 12
 
 
 # Links
-Links
 
 I found the below mentioned links very useful and even necessary to collect all the important information on Technical Writing.
 
