@@ -26,10 +26,6 @@ I found the below mentioned links very useful and even necessary to collect all 
 
 [Technicalwriterhq.com](https://technicalwriterhq.com/career/english-teacher-to-technical-writer/)
 
-[Techwriter.pl](https://techwriter.pl/)
-
-[ITCQF](https://itcqf.org/)
-
 [soap! Conference](https://soapconf.com/)
 
 [Vistula University Technical Communication](https://vistula.edu.pl/kierunki-studiow/komunikacja-techniczna)
